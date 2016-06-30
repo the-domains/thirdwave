@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ThirdWave]]></title>
-        <description><![CDATA[ThirdWave]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Third Wave Partnership LLC]]></title>
+        <description><![CDATA[Third Wave Partnership LLC]]></description>
+        <link>https://thegrid.ai/thirdwave/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 19:32:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 19:43:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thirdwave/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>twp.biz</p>]]></description>
-            <link>undefinedtwpbiz/index.html</link>
+            <link>https://thegrid.ai/thirdwave/twpbiz/index.html</link>
             <guid isPermaLink="false">07c4f94b-dffc-47d8-aeae-a1bf0758db96</guid>
-            <pubDate>Thu, 30 Jun 2016 19:32:38 GMT</pubDate>
+            <pubDate>Thu, 30 Jun 2016 19:43:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
